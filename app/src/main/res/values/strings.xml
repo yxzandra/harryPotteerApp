@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Harry Potter App</string>
+
+    <string name="action_movie">Peliculas</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_favorite">Marcar Favorito</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="girl_ipsum">
+        Morbi posuere lorem nec elit dapibus, vitae accumsan mauris pellentesque.
+    </string>
+    <string name="activity_detail.release_date">Fecha de Lanzamiento</string>
+    <string name="activity_detail.running_time">Tiempo de Ejecución</string>
+    <string name="activity_detail.budget">Presupuesto</string>
+    <string name="activity_detail.created_at">Creado en</string>
+    <string name="activity_detail.updated_at">Actualizado a las</string>
+    <string name="activity_detail.gross_revenue">Ingresos Brutos</string>
+    <string name="employee">Actores</string>
+    <string name="activity_detail.budget.employee">Nombre Completo</string>
+    <string name="activity_detail_nacimiento_employee">Fecha de Nacimiento</string>
+    <string name="activity_detail_actualizado_employee">Otra Fecha</string>
+</resources>
